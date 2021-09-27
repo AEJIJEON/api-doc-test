@@ -6,7 +6,7 @@ description: 스타트업 정보 읽어오는 api
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
- 
+ 게시물 읽
 {% endapi-method-summary %}
 
 {% api-method-description %}
