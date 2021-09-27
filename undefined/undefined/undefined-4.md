@@ -1,3 +1,7 @@
+---
+description: 스타트업 정보 수정
+---
+
 # 게시물 수정
 
 {% api-method method="patch" host="https://api.cakes.com" path="/v1/cakes/:id" %}
